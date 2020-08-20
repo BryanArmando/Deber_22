@@ -11,7 +11,7 @@ void Ejercicio2();
 void datos(int a[], int b);
 void imprimir(int a[], int b);
 void ordenado(int a[], int b);
-//Ejercicio 3 y funciones
+//Ejercicio 3 y funciones.
 void Ejercicio3();
 void Ingresar(float Mes[]);
 int Busqueda(float Mes[],float Monto);
